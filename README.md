@@ -98,6 +98,9 @@ I maintain <b>monerowallet-core</b>, a self-hosted Monero web wallet.
 <hr>
 <h3 align="center">MAKE CONTACT</h3>
 <p align="center">
+<a href="https://linktr.ee/justintharpe"><img src="https://img.shields.io/badge/Linktree-0d1117?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
+<a href="https://x.com/justintharpedev"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://www.linkedin.com/in/justintharpe"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/vinamega"><img src="https://img.shields.io/badge/GitHub-vinamega-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 <sub>Boring code. Dependable systems. Privacy first.</sub>
