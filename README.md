@@ -19,7 +19,7 @@
 I build full-stack software with PHP, TypeScript, and Python, and I care about<br>
 privacy-respecting tools and code that stays boring in the best way:<br>
 predictable, maintainable, and dependable in production.<br><br>
-I maintain <b>monerowallet-core</b>, a self-hosted Monero web wallet.
+I maintain <b>xmrwallet-core</b>, a self-hosted Monero web wallet.
 </p>
 <hr>
 <h3 align="center">THE TRADE</h3>
