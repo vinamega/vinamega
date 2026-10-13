@@ -56,7 +56,7 @@ I maintain <b>xmrwallet-core</b>, a self-hosted Monero web wallet.
 <th align="left">Stack</th>
 </tr>
 <tr>
-<td><a href="https://github.com/vinamega"><b>monerowallet-core</b></a></td>
+<td><a href="https://github.com/vinamega/xmrwallet-core"><b>xmrwallet-core</b></a></td>
 <td>Self-hosted Monero web wallet</td>
 <td>PHP / TypeScript</td>
 </tr>
